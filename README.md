@@ -39,7 +39,7 @@ No installation from Play Store required. Just download, allow unknown sources, 
 1. Clone this repository
 
    ```bash
-   git clone https://github.com/yourusername/youtube-webview-legacy.git
+   git clone https://github.com/Hasnain17/Youtube-Web.git
    ```
 2. Open in Android Studio
 3. Build and run on a physical device or emulator running Android 4.1+
